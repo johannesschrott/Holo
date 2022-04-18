@@ -45,6 +45,8 @@ HoloSettings.shared.mode = .video(Bundle.main.url(forResource: "video", withExte
 
 ## Installation
 
+Holo can be used with Swift Package Manager. Use `https://github.com/johannesschrott/Holo` as Location when adding to XCode.
+
 Holo is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
